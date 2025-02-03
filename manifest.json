@@ -1,7 +1,7 @@
 {
   "vendor": "mfmgroup",
   "name": "instagramembed",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "title": "instagramembed",
   "description": "App para embedar posts do instagram no site",
   "builders": {
